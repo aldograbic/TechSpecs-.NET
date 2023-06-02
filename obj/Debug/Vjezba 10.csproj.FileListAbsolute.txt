@@ -1,0 +1,11 @@
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 10\Vjezba 10\bin\Debug\Vjezba 10.exe.config
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 10\Vjezba 10\bin\Debug\Vjezba 10.exe
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 10\Vjezba 10\bin\Debug\Vjezba 10.pdb
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 10\Vjezba 10\obj\Debug\Vjezba 10.csproj.AssemblyReference.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 10\Vjezba 10\obj\Debug\Vjezba 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 10\Vjezba 10\obj\Debug\Vjezba_10.Form1.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 10\Vjezba 10\obj\Debug\Vjezba_10.Properties.Resources.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 10\Vjezba 10\obj\Debug\Vjezba 10.csproj.GenerateResource.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 10\Vjezba 10\obj\Debug\Vjezba 10.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 10\Vjezba 10\obj\Debug\Vjezba 10.exe
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 10\Vjezba 10\obj\Debug\Vjezba 10.pdb

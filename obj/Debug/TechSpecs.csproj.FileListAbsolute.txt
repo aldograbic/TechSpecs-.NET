@@ -1,0 +1,22 @@
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\Vjezba 10\bin\Debug\TechSpecs.exe.config
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\Vjezba 10\bin\Debug\TechSpecs.exe
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\Vjezba 10\bin\Debug\TechSpecs.pdb
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\Vjezba 10\obj\Debug\TechSpecs.csproj.AssemblyReference.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\Vjezba 10\obj\Debug\TechSpecs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\Vjezba 10\obj\Debug\Vjezba_10.Form1.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\Vjezba 10\obj\Debug\TechSpecs.Properties.Resources.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\Vjezba 10\obj\Debug\TechSpecs.csproj.GenerateResource.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\Vjezba 10\obj\Debug\TechSpecs.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\Vjezba 10\obj\Debug\TechSpecs.exe
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\Vjezba 10\obj\Debug\TechSpecs.pdb
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\bin\Debug\TechSpecs.exe.config
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\bin\Debug\TechSpecs.exe
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\bin\Debug\TechSpecs.pdb
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\obj\Debug\TechSpecs.csproj.AssemblyReference.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\obj\Debug\TechSpecs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\obj\Debug\TechSpecs.Properties.Resources.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\obj\Debug\TechSpecs.csproj.GenerateResource.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\obj\Debug\TechSpecs.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\obj\Debug\TechSpecs.exe
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\obj\Debug\TechSpecs.pdb
+C:\Users\Korisnik\OneDrive\Dokumenti\projekti\TechSpecs (.NET)\obj\Debug\Vjezba_10.TechSpecs.resources
